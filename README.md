@@ -61,9 +61,9 @@
 
 ## 📌 Projets Associés  
 
-- 🔗 Développez une application web en utilisant **Django** [https://openclassrooms.com/fr/paths/879/projects/839]
-- 🔗 Améliorez la qualité de votre code **Python** avec les tests  
-- 🔗 Déployez une application en production  
+- 🔗 Développez une architecture back-end sécurisée avec **Python** et **SQL** [https://openclassrooms.com/fr/paths/879/projects/840]
+- 🔗 Améliorez une application Web **Python** par des tests et du débogage [https://openclassrooms.com/fr/paths/879/projects/839]
+- 🔗 Mettez à l'échelle une application **Django** en utilisant une **architecture modulaire**  [https://openclassrooms.com/fr/paths/879/projects/841]
 
 ---
 
