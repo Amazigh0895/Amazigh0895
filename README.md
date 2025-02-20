@@ -27,7 +27,7 @@
 
 ---
 
-## 🔥 Projets Notables  
+## 🔥 Projets Récents  
 
 ### 🔍 Finder (Django, PostgreSQL, API eBay, Celery, Redis, Render)  
 ✅ Application déployée sur Render, utilisée par **17 utilisateurs**  
